@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b80ad697c366cccd29765358c4f34d1",
+    "revision": "7717e4df21f252383da64cd7056801e9",
     "url": "/reactgitpage/index.html"
   },
   {
-    "revision": "4d9384add27fd8437e98",
+    "revision": "4b56f43666487204d783",
     "url": "/reactgitpage/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactgitpage/static/js/2.aa386014.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d9384add27fd8437e98",
-    "url": "/reactgitpage/static/js/main.23a7ffe9.chunk.js"
+    "revision": "4b56f43666487204d783",
+    "url": "/reactgitpage/static/js/main.6b2ab52f.chunk.js"
   },
   {
     "revision": "a773a92f900c5f8c8c26",
     "url": "/reactgitpage/static/js/runtime-main.6199b479.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/reactgitpage/static/media/logo.5d5d9eef.svg"
+    "revision": "46a723029da966fcf0131b153d6ecd53",
+    "url": "/reactgitpage/static/media/ouch.46a72302.gif"
   }
 ]);

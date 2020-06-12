@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactgitpage/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reactgitpage/static/js/main.ad9a26ed.chunk.js",
-    "main.js.map": "/reactgitpage/static/js/main.ad9a26ed.chunk.js.map",
+    "main.js": "/reactgitpage/static/js/main.23a7ffe9.chunk.js",
+    "main.js.map": "/reactgitpage/static/js/main.23a7ffe9.chunk.js.map",
     "runtime-main.js": "/reactgitpage/static/js/runtime-main.6199b479.js",
     "runtime-main.js.map": "/reactgitpage/static/js/runtime-main.6199b479.js.map",
     "static/js/2.aa386014.chunk.js": "/reactgitpage/static/js/2.aa386014.chunk.js",
     "static/js/2.aa386014.chunk.js.map": "/reactgitpage/static/js/2.aa386014.chunk.js.map",
     "index.html": "/reactgitpage/index.html",
-    "precache-manifest.abda8b7fe2a88caefe0c24601756595a.js": "/reactgitpage/precache-manifest.abda8b7fe2a88caefe0c24601756595a.js",
+    "precache-manifest.148042de16c9d0f1a87a2fbaa610ca64.js": "/reactgitpage/precache-manifest.148042de16c9d0f1a87a2fbaa610ca64.js",
     "service-worker.js": "/reactgitpage/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/reactgitpage/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.aa386014.chunk.js.LICENSE.txt": "/reactgitpage/static/js/2.aa386014.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.6199b479.js",
     "static/js/2.aa386014.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ad9a26ed.chunk.js"
+    "static/js/main.23a7ffe9.chunk.js"
   ]
 }

@@ -1,14 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
+import ouch from './img/ouch.gif';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={ouch} alt="ouch!" />
+        <h1>
+          Maxi pollera, te fuiste y nos dejaste solos en pleno free weekend!!!!
+        </h1>
         <p>
-          Maxi pollera, te fuiste y nos dejaste solos en pleno free weekend!.
+          Saludos a la jermu jaja
         </p>
         <a
           className="App-link"
